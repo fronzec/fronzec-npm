@@ -21,6 +21,7 @@ const sections = [
   {
     title: 'Rappi (My Company)',
     details: [
+      [ 'Work', 'FullStack Developer' ],
       [ 'Email', 'eflores@rappi.com' ],
       [ 'Web', 'https://rappi.com' ],
       [ 'Twitter', 'https://twitter.com/rappimexico' ]
