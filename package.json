@@ -1,0 +1,28 @@
+{
+  "name": "fronzec",
+  "version": "1.0.2",
+  "description": "A personal card for Eduardo Flores (@fronzec)",
+  "scripts": {
+    "card": "node bin/card.js"
+  },
+  "bin": {
+    "card": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fronzec/fronzec"
+  },
+  "dependencies": {
+    "npxcard": "^0.1.0"
+  },
+  "author": "Eduardo Flores <efloresambrosio@gmail.com> (https://eflores.me)",
+  "contributors": [
+    "Eduardo Flores <efloresambrosio@gmail.com> (https://eflores.me)"
+  ],
+  "keywords": [
+    "npxcard",
+    "npx",
+    "card"
+  ],
+  "license": "MIT"
+}
