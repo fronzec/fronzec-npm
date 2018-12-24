@@ -1,6 +1,6 @@
 {
   "name": "fronzec",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A personal card for Eduardo Flores (@fronzec)",
   "scripts": {
     "card": "node bin/card.js"
